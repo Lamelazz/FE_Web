@@ -1,0 +1,10 @@
+import './assets/css/animate.css';
+import './assets/css/bootstrap.min.css';
+import './assets/css/chosen.css';
+import './assets/css/font-awesome.min.css';
+import './assets/css/jquery.mCustomScrollbar.css';
+import './assets/css/lightbox.min.css';
+import './assets/css/magnific-popup.css';
+import './assets/css/owl.carousel.css';
+import './assets/css/pe-icon-7-stroke.css';
+import './assets/css/style.css';
